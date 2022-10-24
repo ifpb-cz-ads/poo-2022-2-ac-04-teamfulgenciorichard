@@ -1,4 +1,3 @@
-package ATV_1;
 class CBBAtividadePratica2 {
     public static void main(String[] args) {
 
