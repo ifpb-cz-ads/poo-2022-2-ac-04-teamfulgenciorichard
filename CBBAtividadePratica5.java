@@ -1,4 +1,4 @@
-class CBBAtividadePratica3 {
+class CBBAtividadePratica5 {
     public static void main(String[] args) {
 
         int number;
